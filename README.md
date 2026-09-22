@@ -18,7 +18,7 @@ Founder, designer, engineer & student. Member of [Swiftlang Org](https://github.
 
 ## Design & teaching
 
-I design apps and interfaces; that work and my essays live at [combabulating.com](https://combabulating.com). I also taught a design course at [DpIT](https://dpit.ro), a non-profit that mentors students into IT — the teaching mattered more to me than the brand work I did for them.
+I design apps and interfaces; that work and my essays live at [combabulating.com](https://combabulating.com). I also taught a design course at [DpIT](https://dpit.ro), a non-profit that mentors students into IT, where I also run brand work.
 
 ## Shipped, then sunset
 
