@@ -15,6 +15,7 @@ Founder, designer, engineer & student. Member of [Swiftlang Org](https://github.
 
 - [swift-package-manager #10346](https://github.com/swiftlang/swift-package-manager/pull/10346) — show plugin compiler errors at normal verbosity.
 - [swift-format #1266](https://github.com/swiftlang/swift-format/pull/1266) — fix access levels on nested protocols.
+- [swift-configuration #233](https://github.com/apple/swift-configuration/pull/233) — support enums with any integer raw type (SCO-0006).
 
 ## Design & teaching
 
